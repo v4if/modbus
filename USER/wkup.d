@@ -1,0 +1,10 @@
+.\wkup.o: ..\HARDWARE\WKUP\wkup.c
+.\wkup.o: ..\HARDWARE\WKUP\wkup.h
+.\wkup.o: ..\SYSTEM\sys\sys.h
+.\wkup.o: ..\SYSTEM\sys\stm32f10x_map.h
+.\wkup.o: ..\SYSTEM\sys\stm32f10x_conf.h
+.\wkup.o: ..\SYSTEM\sys\stm32f10x_type.h
+.\wkup.o: ..\SYSTEM\sys\cortexm3_macro.h
+.\wkup.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+.\wkup.o: ..\HARDWARE\LED\led.h
+.\wkup.o: ..\SYSTEM\delay\delay.h
