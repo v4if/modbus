@@ -1,9 +1,5 @@
-## Modbus单片机程序
+# Modbus 单片机电流采集  ![Language c](https://img.shields.io/badge/language-c-blue.svg?style=flat-square)
 
-### 程序开发环境 
-IDE    : Keil <br/>
-单片机 : STM32F103
+单片机电流采集，上位机利用modbus协议查询
 
-### 功能描述 
-1.实现了modbus作为从机的读取单个线圈、读取多个线圈的应答<br/>
-2.八路电流的采集功能，利用上位机读取电流值
+## Keil + STM32F103
